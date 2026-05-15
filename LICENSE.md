@@ -1,4 +1,4 @@
-# 
+# advanced Polymarket Plugin | backtesting + API-integration is the best Polymarket plugin, featuring backtesting and API-integration. Smart, fast, and optimized for trading on
 
 
 
